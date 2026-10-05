@@ -4,7 +4,7 @@
 
 **Repo:** https://github.com/HnivGnad/K4-Track02-Day17-Data-Pipeline-Engineering
 
-**Commit bài nộp:** `<bổ sung sau commit cuối>`
+**Commit bài nộp:** `c151d0047ab3366fd8e2d901c79933edfb17fe53`
 
 **AI đã dùng và phạm vi hỗ trợ:** OpenAI Codex hỗ trợ đọc đề/code, sửa ba lỗi,
 review diff, chạy kiểm thử, triển khai bonus và soạn báo cáo; tôi review kết quả và
